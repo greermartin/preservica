@@ -1,4 +1,4 @@
-#About this repository
+# About this repository
 
 Contains a Python script (csv2opex.py) that creates one OPEX file (.opex) per row for a given CSV.
 The created .opex files:
